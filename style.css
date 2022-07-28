@@ -1,1 +1,8 @@
-
+.carousel-caption-mobile {
+  position: absolute;
+  right: 15%;
+  bottom: 0.15rem;
+  left: 15%;
+  color: #fff;
+  text-align: center;
+}
