@@ -6,6 +6,12 @@
   color: #fff;
   text-align: center;
 }
+.common-color {
+  color: #289bde;
+}
+.common-bg-color {
+  background-color: #289bde;
+}
 .common-btn {
   --bs-btn-color: #fff;
   --bs-btn-bg: #289bde;
